@@ -78,7 +78,7 @@ while True:
     # USE MODE 5 IN BURST MODE, USE IT TO UNFOLLOW PEOPLE AS MANY AS
     # YOU WANT IN SHORT TIME PERIOD
 
-    mode = 1
+    mode = 0
 
     #print("You choose mode : %i" %(mode))
     #print("CTRL + C to cancel this operation or wait 30 seconds to start")
